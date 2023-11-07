@@ -21,6 +21,7 @@ Email: prestonnikfard@gmail.com
   * **Description:** A 2D platformer game with a gravity flipping mechanic
   * *Made in Custom C++ Engine using OpenGL*  
 
+![Buried Alive Gameplay](https://github.com/preston-n/Projects/blob/main/Screenshots/BuriedAlive/BuriedAlive4.png?raw=true)
 ### Buried Alive
   * **Trailer:**  https://www.youtube.com/watch?v=Gf6BLAZR3XA
   * **Description:** A 2D platformer game with digging, building and magic
