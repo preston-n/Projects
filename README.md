@@ -11,11 +11,13 @@ Email: prestonnikfard@gmail.com
   * **Description:** A 3D flying game in which you must fight through waves of demons
   * *Made in Unreal Engine 5*  
 
+![Picture of Generated City](https://github.com/preston-n/Projects/blob/main/Screenshots/CityPCG/City3.png?raw=true)
 ### City PCG Tool
   * **Screenshots:**  https://drive.google.com/drive/folders/14HkRyavc-xFd-hmw26HJH4-bpFQ_6sUi?usp=sharing
   * **Description:** A tool made for generating random cities with different layouts and buildings
   * *Made in Unity and C#*  
 
+![Flip Trip Gameplay](https://github.com/preston-n/Projects/blob/main/Screenshots/FlipTrip/FlipTrip1.png?raw=true)
 ### Flip Trip
   * **Trailer:**  https://www.youtube.com/watch?v=BeESCV66jmw
   * **Description:** A 2D platformer game with a gravity flipping mechanic
@@ -33,3 +35,5 @@ Email: prestonnikfard@gmail.com
 - Python
 - Unity
 - Unreal
+- Game Design
+- Teamwork
