@@ -69,3 +69,14 @@ Email: prestonnikfard@gmail.com
 - Tools Programing 
 - Game Design
 - Teamwork
+  
+# Education 
+### DigiPen Institute of Technology
+  * BS in Computer Science and Game Design	
+  * August, 2020 - Present
+  * Dean's Honor List; 3.8 GPA
+
+### Bellevue College 	
+  * Associate in Arts & Sciences		
+  * September, 2018 - June, 2020 
+  * Running start program; 3.7 GPA 
