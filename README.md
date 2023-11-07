@@ -65,5 +65,7 @@ Email: prestonnikfard@gmail.com
 - Python
 - Unity
 - Unreal
+- Gameplay Programing
+- Tools Programing 
 - Game Design
 - Teamwork
