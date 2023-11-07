@@ -30,9 +30,9 @@ Email: prestonnikfard@gmail.com
   * **Trailer:**  https://www.youtube.com/watch?v=Gf6BLAZR3XA
   * **Description:** A 2D platformer game with digging, building and magic
   * **Implemented/Worked On Features:**
-  * -Player programing
-  * -FMOD low-level Audio
-  * -UI
+   * Player programing
+   * FMOD low-level Audio
+   * UI
   * *Made in Alpha Engine*  
 ![Buried Alive Gameplay](https://github.com/preston-n/Projects/blob/main/Screenshots/BuriedAlive/BuriedAlive4.png?raw=true)
 
