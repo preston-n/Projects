@@ -2,7 +2,7 @@
 Email: prestonnikfard@gmail.com
 
 # Projects
-### Doodle & Scrubb
+### Doodle & Scrubb (WIP)
   * **Description:** A 3D Couch Competitive game where you play as a Cat seeking to wreak havoc on your owner's house, or as a robot trying to keep things together
   * **Role:** Tech Lead and Gameplay Programmer
   * **Implemented/Worked On Features:**
@@ -22,6 +22,7 @@ Email: prestonnikfard@gmail.com
     * UI
     * Level programing
   * *Made in Unreal Engine 5*  
+![Ninjet Gameplay](https://github.com/preston-n/Projects/blob/main/Screenshots/Ninjet/Ninjet1.png?raw=true)
 
 ### City PCG Tool
   * **Screenshots:**  https://drive.google.com/drive/folders/14HkRyavc-xFd-hmw26HJH4-bpFQ_6sUi?usp=sharing
