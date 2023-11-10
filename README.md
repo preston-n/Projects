@@ -52,7 +52,7 @@ Email: prestonnikfard@gmail.com
   * **Description:** A 2D platformer game with digging, building and magic
   * **Role:** Programmer
   * **Implemented/Worked On Features:**
-    * Gameplay mechanics (Scoring System and Player)
+    * Gameplay mechanics (Scoring System and Player Health)
     * UI
     * FMOD Audio
   * *Made in Alpha Engine*  
