@@ -32,7 +32,7 @@ Email: prestonnikfard@gmail.com
 
 ### Flip Trip
   * **Trailer:**  https://www.youtube.com/watch?v=BeESCV66jmw
-  * **Description:** A 2D platformer game with a gravity flipping mechanic
+  * **Description:** 2D platformer game where you can change gravity
   * **Role:** Engine/Gameplay Programmer
   * **Some of the worked on features:**
     * Engine Features 
@@ -49,7 +49,7 @@ Email: prestonnikfard@gmail.com
 
 ### Buried Alive
   * **Trailer:**  https://www.youtube.com/watch?v=Gf6BLAZR3XA
-  * **Description:** A 2D platformer game with digging, building and magic
+  * **Description:** A 2D platformer game that you must dig, build and use magic spells in order to survive
   * **Role:** Programmer
   * **Some of the worked on features:**
     * Gameplay mechanics (Scoring System and Player Health)
