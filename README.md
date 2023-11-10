@@ -16,7 +16,7 @@ Email: prestonnikfard@gmail.com
   * **Trailer:** https://www.youtube.com/watch?v=QG9cSXIpbGs 
   * **Description:** A 3D flying game in which you must fight through waves of demons
   * **Role:** Lead Gameplay Programmer
-  * **Implemented/Worked On Features:**
+  * **Some of the worked on features:**
     * Gameplay Features (Player, Powerups and Enemy AI)
     * UI
     * Level programing
@@ -34,7 +34,7 @@ Email: prestonnikfard@gmail.com
   * **Trailer:**  https://www.youtube.com/watch?v=BeESCV66jmw
   * **Description:** A 2D platformer game with a gravity flipping mechanic
   * **Role:** Engine/Gameplay Programmer
-  * **Implemented/Worked On Features:**
+  * **Some of the worked on features:**
     * Engine Features 
       * JSON read/write (through RapidJSON)
       * FMOD Audio
@@ -51,7 +51,7 @@ Email: prestonnikfard@gmail.com
   * **Trailer:**  https://www.youtube.com/watch?v=Gf6BLAZR3XA
   * **Description:** A 2D platformer game with digging, building and magic
   * **Role:** Programmer
-  * **Implemented/Worked On Features:**
+  * **Some of the worked on features:**
     * Gameplay mechanics (Scoring System and Player Health)
     * UI
     * FMOD Audio
