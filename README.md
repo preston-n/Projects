@@ -24,7 +24,6 @@ Email: prestonnikfard@gmail.com
 ![Ninjet Gameplay](https://github.com/preston-n/Projects/blob/main/Screenshots/Ninjet/Ninjet1.png?raw=true)
 
 ### City PCG Tool
-  * **Screenshots:**  https://drive.google.com/drive/folders/14HkRyavc-xFd-hmw26HJH4-bpFQ_6sUi?usp=sharing
   * **Description:** A tool made for generating random cities with different layouts and buildings
   * **Role:** Creator
   * *Made in Unity and with C#*  
