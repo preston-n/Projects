@@ -50,7 +50,7 @@ Email: prestonnikfard@gmail.com
 ### Buried Alive
   * **Trailer:**  https://www.youtube.com/watch?v=Gf6BLAZR3XA
   * **Description:** A 2D platformer game in which you must dig, build and use magic to survive
-  * **Role:** Programmer
+  * **Role:** Gameplay Programmer
   * **Some of the worked on features:**
     * Gameplay mechanics (Scoring System and Player Health)
     * UI
