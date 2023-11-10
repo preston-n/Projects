@@ -5,7 +5,7 @@ Email: prestonnikfard@gmail.com
 ### Doodle & Scrubb (WIP)
   * **Description:** A 3D Couch Competitive game where you play as Doodle (a Cat) seeking to wreak havoc on your owner's house, or as Scrubb (a robot) trying to keep things together
   * **Role:** Tech Lead and Gameplay Programmer
-  * **Implemented/Worked On Features:**
+  * **Some of the worked on features:**
     * Gameplay Features (Scrubb Shooting and Bullet effects) 
     * Accessibility Options and General Settings
     * UI
