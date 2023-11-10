@@ -6,9 +6,8 @@ Email: prestonnikfard@gmail.com
   * **Description:** A 3D Couch Competitive game where you play as Doodle (a Cat) seeking to wreak havoc on your owner's house, or as Scrubb (a robot) trying to keep things together
   * **Role:** Tech Lead and Gameplay Programmer
   * **Implemented/Worked On Features:**
-    * Player Shooting
-    * Accessibility Options
-    * Saving Settings
+    * Gameplay Features (Scrubb Shooting and Bullet effects) 
+    * Accessibility Options and General Settings
     * UI
   * *Made in Unreal Engine 5*
 ![Doodle & Scrubb Gameplay (WIP)](https://github.com/preston-n/Projects/blob/main/Screenshots/Doodle%26Scrubb/Doodle%26Scrubb3.png?raw=true)
@@ -18,8 +17,7 @@ Email: prestonnikfard@gmail.com
   * **Description:** A 3D flying game in which you must fight through waves of demons
   * **Role:** Lead Gameplay Programmer
   * **Implemented/Worked On Features:**
-    * Player
-    * Enemy AI
+    * Gameplay Features (Player, Powerups and Enemy AI)
     * UI
     * Level programing
   * *Made in Unreal Engine 5*  
@@ -39,10 +37,10 @@ Email: prestonnikfard@gmail.com
   * **Implemented/Worked On Features:**
     * Engine Features 
       * JSON read/write (through RapidJSON)
-      * FMOD low level Audio
+      * FMOD Audio
+      * Level loading/creation System
       * Save System
       * Scoring System
-      * Level loading/creation
     * Gameplay Features
       * Collectibles
       * Powerups
@@ -54,10 +52,9 @@ Email: prestonnikfard@gmail.com
   * **Description:** A 2D platformer game with digging, building and magic
   * **Role:** Programmer
   * **Implemented/Worked On Features:**
-    * Player programing
-    * Scoring System
+    * Gameplay mechanics (Scoring System and Player)
     * UI
-    * FMOD low-level Audio
+    * FMOD Audio
   * *Made in Alpha Engine*  
 ![Buried Alive Gameplay](https://github.com/preston-n/Projects/blob/main/Screenshots/BuriedAlive/BuriedAlive4.png?raw=true)
 
