@@ -12,17 +12,6 @@ Email: prestonnikfard@gmail.com
   * *Made in Unreal Engine 5*
 ![Doodle & Scrubb Gameplay (WIP)](https://github.com/preston-n/Projects/blob/main/Screenshots/Doodle%26Scrubb/Doodle%26Scrubb3.png?raw=true)
     
-### Ninjet
-  * **Trailer:** https://www.youtube.com/watch?v=QG9cSXIpbGs 
-  * **Description:** A 3D flying game in which you must fight through waves of demons
-  * **Role:** Lead Gameplay Programmer
-  * **Some of the worked on features:**
-    * Gameplay Features (Player, Powerups and Enemy AI)
-    * UI
-    * Level programing
-  * *Made in Unreal Engine 5*  
-![Ninjet Gameplay](https://github.com/preston-n/Projects/blob/main/Screenshots/Ninjet/Ninjet1.png?raw=true)
-
 ### City PCG Tool
   * **Description:** A tool made for generating random cities with different layouts and buildings
   * **Role:** Creator
