@@ -6,7 +6,7 @@ Email: prestonnikfard@gmail.com
   * **Description:** A 3D Couch Competitive game where you play as Doodle (a cat) seeking to wreak havoc on your owner's house, or as Scrubb (a robot) trying to keep things together
   * **Role:** Tech Lead and Gameplay Programmer
   * **Some of the worked on features:**
-    * Gameplay Features (Scrubb Shooting and Bullet effects) 
+    * Gameplay Features (Scrubb Weapons and Bullet effects) 
     * Accessibility Options and General Settings
     * UI
   * *Made in Unreal Engine 5*
@@ -43,7 +43,7 @@ Email: prestonnikfard@gmail.com
     * Gameplay mechanics (Scoring System and Player Health)
     * UI
     * FMOD Audio
-  * *Made in Alpha Engine*  
+  * *Made in C using Alpha Engine*  
 ![Buried Alive Gameplay](https://github.com/preston-n/Projects/blob/main/Screenshots/BuriedAlive/BuriedAlive4.png?raw=true)
 
 # Languages/Skills
