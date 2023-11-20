@@ -34,6 +34,7 @@ Email: prestonnikfard@gmail.com
       * Collectibles
       * Powerups
   * *Made in Custom C++ Engine using OpenGL*
+  * *More info can be found here: https://github.com/preston-n/FlipTrip*
 ![Flip Trip Gameplay](https://github.com/preston-n/Projects/blob/main/Screenshots/FlipTrip/FlipTrip1.png?raw=true)
 
 ### Buried Alive
