@@ -15,7 +15,8 @@ Email: prestonnikfard@gmail.com
 ### City PCG Tool
   * **Description:** A tool made for generating random cities with different layouts and buildings
   * **Role:** Creator
-  * *Made in Unity and with C#*  
+  * *Made in Unity and with C#*
+  * *More info can be found here: https://github.com/preston-n/CityPCG* 
 ![Picture of Generated City](https://github.com/preston-n/Projects/blob/main/Screenshots/CityPCG/City3.png?raw=true)
 
 ### Flip Trip
