@@ -2,15 +2,17 @@
 Email: prestonnikfard@gmail.com
 
 # Projects
-### Doodle & Scrubb (WIP)
-  * **Description:** A 3D Couch Competitive game where you play as Doodle (a cat) seeking to wreak havoc on your owner's house, or as Scrubb (a robot) trying to keep things together
+### Doodle & Scrubb
+  * **Trailer:**  https://www.youtube.com/watch?v=QrB_Pq3Gy_A
+  * **Description:** Doodle & Scrubb is a 2-player party game where one player takes the role of the chivalrous butler-bot named Scrubb, and the other player takes the role of a mischievous cat named Doodle. Scrubb was designed to keep the house clean, but Doodle sees destruction and chaos… now! Play against each other in a cat-and-mouse style competition, where only the most skilled player can come out victorious!
   * **Role:** Tech Lead and Gameplay Programmer
   * **Some of the worked on features:**
     * Gameplay Features (Scrubb Weapons and Bullet effects) 
     * Accessibility Options and General Settings
     * UI
   * *Made in Unreal Engine 5*
-![Doodle & Scrubb Gameplay (WIP)](https://github.com/preston-n/Projects/blob/main/Screenshots/Doodle%26Scrubb/Doodle%26Scrubb3.png?raw=true)
+  * *More info can be found here: https://github.com/preston-n/Doodle-Scrubb* 
+![Doodle & Scrubb Gameplay )](https://github.com/preston-n/Doodle-Scrubb/blob/main/Screenshots/Doodle%26Scrubb_3_hi_res.jpg?raw=true)
     
 ### City PCG Tool
   * **Description:** A tool made for generating random cities with different layouts and buildings
@@ -62,10 +64,10 @@ Email: prestonnikfard@gmail.com
 # Education 
 ### DigiPen Institute of Technology
   * BS in Computer Science and Game Design	
-  * August, 2020 - Present
-  * Dean's Honor List; 3.8 GPA
+  * August, 2020 - April, 2024
+  * Honors: Magna Cum Laude; Dean's Honor List 
 
 ### Bellevue College 	
   * Associate in Arts & Sciences		
   * September, 2018 - June, 2020 
-  * Running start program; 3.7 GPA 
+  * Running start program; 3.7 GPA
