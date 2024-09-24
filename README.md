@@ -7,15 +7,16 @@ Email: prestonnikfard@gmail.com
   * **Description:** Doodle & Scrubb is a 2-player party game where one player takes the role of the chivalrous butler-bot named Scrubb, and the other player takes the role of a mischievous cat named Doodle. Scrubb was designed to keep the house clean, but Doodle sees destruction and chaos… now! Play against each other in a cat-and-mouse style competition, where only the most skilled player can come out victorious!
   * **Role:** Tech Lead and Gameplay Programmer
   * **Some of the worked on features:**
-    * Gameplay Features (Scrubb Weapons and Bullet effects) 
-    * Accessibility Options and General Settings
-    * UI
+    * Scrubb Weapons and Bullet effects
+    * Character interactions 
+    * Accessibility and other general Settings
+    * UI 
   * *Made in Unreal Engine 5*
   * *More info can be found here: https://github.com/preston-n/Doodle-Scrubb* 
 ![Doodle & Scrubb Gameplay )](https://github.com/preston-n/Doodle-Scrubb/blob/main/Screenshots/Doodle%26Scrubb_3_hi_res.jpg?raw=true)
     
 ### City PCG Tool
-  * **Description:** A tool made for generating random cities with different layouts and buildings
+  * **Description:** A tool made for creating virtual cities of varying buildings and layouts with procedural content generation systems
   * **Role:** Creator
   * *Made in Unity and with C#*
   * *More info can be found here: https://github.com/preston-n/CityPCG* 
@@ -24,7 +25,7 @@ Email: prestonnikfard@gmail.com
 ### Flip Trip
   * **Trailer:**  https://www.youtube.com/watch?v=BeESCV66jmw
   * **Description:** 2D platformer game where you can change gravity
-  * **Role:** Engine/Gameplay Programmer
+  * **Role:** Engine and general features Programmer
   * **Some of the worked on features:**
     * Engine Features 
       * JSON read/write (through RapidJSON)
@@ -45,8 +46,8 @@ Email: prestonnikfard@gmail.com
   * **Role:** Gameplay Programmer
   * **Some of the worked on features:**
     * Gameplay mechanics (Scoring System and Player Health)
-    * UI
     * FMOD Audio
+    * UI  
   * *Made in C using Alpha Engine*  
 ![Buried Alive Gameplay](https://github.com/preston-n/Projects/blob/main/Screenshots/BuriedAlive/BuriedAlive4.png?raw=true)
 
