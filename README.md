@@ -25,7 +25,7 @@ Email: prestonnikfard@gmail.com
 ### Flip Trip
   * **Trailer:**  https://www.youtube.com/watch?v=BeESCV66jmw
   * **Description:** 2D platformer game where you can change gravity
-  * **Role:** Engine and general features Programmer
+  * **Role:** Engine Programmer
   * **Some of the worked on features:**
     * Engine Features 
       * JSON read/write (through RapidJSON)
@@ -43,17 +43,19 @@ Email: prestonnikfard@gmail.com
 ### Buried Alive
   * **Trailer:**  https://www.youtube.com/watch?v=Gf6BLAZR3XA
   * **Description:** A 2D platformer game in which you must dig, build and use magic to survive
-  * **Role:** Gameplay Programmer
+  * **Role:** Programmer
   * **Some of the worked on features:**
-    * Gameplay mechanics (Scoring System and Player Health)
     * FMOD Audio
-    * UI  
+    * UI
+    * Scoring System 
+    * Player mechanics
   * *Made in C using Alpha Engine*  
 ![Buried Alive Gameplay](https://github.com/preston-n/Projects/blob/main/Screenshots/BuriedAlive/BuriedAlive4.png?raw=true)
 
 # Languages/Skills
 - C++
 - C#
+- C
 - Python
 - Unity
 - Unreal
