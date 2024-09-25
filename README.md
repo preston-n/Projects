@@ -29,7 +29,8 @@ Email: prestonnikfard@gmail.com
   * **Trailer:**  https://www.youtube.com/watch?v=Gf6BLAZR3XA
   * **Description:** A 2D platformer game in which you must dig, build and use magic to survive
   * **Role:** Programmer
-  * *Made in C using Alpha Engine*  
+  * *Made in C using Alpha Engine*
+  * *More info can be found here: https://github.com/preston-n/Buried-Alive*
 ![Buried Alive Gameplay](https://github.com/preston-n/Projects/blob/main/Screenshots/BuriedAlive/BuriedAlive4.png?raw=true)
 
 # Languages/Skills
