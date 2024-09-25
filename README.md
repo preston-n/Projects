@@ -6,7 +6,7 @@ Email: prestonnikfard@gmail.com
   * **Trailer:**  https://www.youtube.com/watch?v=QrB_Pq3Gy_A
   * **Description:** 3D Couch Competitive game where you play as either Doodle seeking to wreak havoc on your owner's house, or as Scrubb trying to keep things together
   * **Role:** Tech Lead and Gameplay Programmer
-  * *Made in Unreal Engine 5*
+  * *Made in Unreal Engine 5 using C++ and Blueprints*
   * *More info can be found here: https://github.com/preston-n/Doodle-Scrubb* 
 ![Doodle & Scrubb Gameplay)](https://github.com/preston-n/Doodle-Scrubb/blob/main/Screenshots/Doodle%26Scrubb_3_hi_res.jpg?raw=true)
     
