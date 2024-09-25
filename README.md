@@ -4,16 +4,11 @@ Email: prestonnikfard@gmail.com
 # Projects
 ### Doodle & Scrubb
   * **Trailer:**  https://www.youtube.com/watch?v=QrB_Pq3Gy_A
-  * **Description:** Doodle & Scrubb is a 2-player party game where one player takes the role of the chivalrous butler-bot named Scrubb, and the other player takes the role of a mischievous cat named Doodle. Scrubb was designed to keep the house clean, but Doodle sees destruction and chaos… now! Play against each other in a cat-and-mouse style competition, where only the most skilled player can come out victorious!
+  * **Description:** 3D Couch Competitive game where you play as either Doodle seeking to wreak havoc on your owner's house, or as Scrubb trying to keep things together
   * **Role:** Tech Lead and Gameplay Programmer
-  * **Some of the worked on features:**
-    * Scrubb Weapons and Bullet effects
-    * Character interactions 
-    * Accessibility and other general Settings
-    * UI 
   * *Made in Unreal Engine 5*
   * *More info can be found here: https://github.com/preston-n/Doodle-Scrubb* 
-![Doodle & Scrubb Gameplay )](https://github.com/preston-n/Doodle-Scrubb/blob/main/Screenshots/Doodle%26Scrubb_3_hi_res.jpg?raw=true)
+![Doodle & Scrubb Gameplay)](https://github.com/preston-n/Doodle-Scrubb/blob/main/Screenshots/Doodle%26Scrubb_3_hi_res.jpg?raw=true)
     
 ### City PCG Tool
   * **Description:** A tool made for creating virtual cities of varying buildings and layouts with procedural content generation systems
@@ -24,18 +19,8 @@ Email: prestonnikfard@gmail.com
 
 ### Flip Trip
   * **Trailer:**  https://www.youtube.com/watch?v=BeESCV66jmw
-  * **Description:** 2D platformer game where you can change gravity
+  * **Description:** 2D platformer game where you change gravity
   * **Role:** Engine Programmer
-  * **Some of the worked on features:**
-    * Engine Features 
-      * JSON read/write (through RapidJSON)
-      * FMOD Audio
-      * Level loading/creation System
-      * Save System
-      * Scoring System
-    * Gameplay Features
-      * Collectibles
-      * Powerups
   * *Made in Custom C++ Engine using OpenGL*
   * *More info can be found here: https://github.com/preston-n/FlipTrip*
 ![Flip Trip Gameplay](https://github.com/preston-n/Projects/blob/main/Screenshots/FlipTrip/FlipTrip1.png?raw=true)
@@ -44,11 +29,6 @@ Email: prestonnikfard@gmail.com
   * **Trailer:**  https://www.youtube.com/watch?v=Gf6BLAZR3XA
   * **Description:** A 2D platformer game in which you must dig, build and use magic to survive
   * **Role:** Programmer
-  * **Some of the worked on features:**
-    * FMOD Audio
-    * UI
-    * Scoring System 
-    * Player mechanics
   * *Made in C using Alpha Engine*  
 ![Buried Alive Gameplay](https://github.com/preston-n/Projects/blob/main/Screenshots/BuriedAlive/BuriedAlive4.png?raw=true)
 
