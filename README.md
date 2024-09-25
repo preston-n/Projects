@@ -23,7 +23,7 @@ Email: prestonnikfard@gmail.com
   * **Role:** Engine Programmer
   * *Made in Custom C++ Engine using OpenGL*
   * *More info can be found here: https://github.com/preston-n/FlipTrip*
-![Flip Trip Gameplay](https://github.com/preston-n/Projects/blob/main/Screenshots/FlipTrip/FlipTrip_Console.png?raw=true)
+![Flip Trip Gameplay](https://github.com/preston-n/Projects/blob/main/Screenshots/FlipTrip/FlipTrip_Debug.png?raw=true)
 
 ### Buried Alive
   * **Trailer:**  https://www.youtube.com/watch?v=Gf6BLAZR3XA
