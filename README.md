@@ -5,7 +5,7 @@ Email: prestonnikfard@gmail.com
 ### Doodle & Scrubb
   * **Trailer:**  https://www.youtube.com/watch?v=QrB_Pq3Gy_A
   * **Description:** 3D Couch Competitive game where you play as either Doodle seeking to wreak havoc on your owner's house, or as Scrubb trying to keep things together
-  * **Role:** Tech Lead and Gameplay Programmer
+  * **Role:** Tech Lead and Programmer
   * *Made in Unreal Engine 5 using C++ and Blueprints*
   * *More info can be found here: https://github.com/preston-n/Doodle-Scrubb* 
 ![Doodle & Scrubb Gameplay)](https://github.com/preston-n/Doodle-Scrubb/blob/main/Screenshots/Doodle%26Scrubb_3_hi_res.jpg?raw=true)
@@ -38,6 +38,7 @@ Email: prestonnikfard@gmail.com
 - C#
 - C
 - Python
+- Software development
 - Unity
 - Unreal
 - Gameplay Programing
@@ -50,8 +51,3 @@ Email: prestonnikfard@gmail.com
   * BS in Computer Science and Game Design	
   * August, 2020 - April, 2024
   * Honors: Magna Cum Laude; Dean's Honor List 
-
-### Bellevue College 	
-  * Associate in Arts & Sciences		
-  * September, 2018 - June, 2020 
-  * Running start program; 3.7 GPA
