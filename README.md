@@ -15,6 +15,13 @@ Email: prestonnikfard@gmail.com
   * *More info can be found here: https://github.com/preston-n/CityPCG* 
 ![Picture of Generated City](https://github.com/preston-n/Projects/blob/main/Screenshots/CityPCG/City3.png?raw=true)
 
+### Ninjet
+  * **Trailer:**  https://www.youtube.com/watch?v=QG9cSXIpbGs
+  * **Description:** Ninjet is a unique flying game in which you must fight through waves of demons and upgrade your jet for survival
+  * *Made in Unreal Engine 5 using C++ and Blueprints*
+  * *More info can be found here: https://github.com/preston-n/Ninjet* 
+![Ninjet Gameplay)](https://github.com/preston-n/Ninjet/blob/main/Screenshots/Ninjet1.png?raw=true)
+
 ### Flip Trip
   * **Trailer:**  https://www.youtube.com/watch?v=BeESCV66jmw
   * **Description:** 2D platformer game where you change gravity
