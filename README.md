@@ -40,4 +40,4 @@ Email: prestonnikfard@gmail.com
 ### DigiPen Institute of Technology
   * BS in Computer Science and Game Design	
   * August, 2020 - April, 2024
-  * Honors: Magna Cum Laude; Dean's Honor List 
+  * 3.74 GPA; Honors: Magna Cum Laude; Dean's Honor List
